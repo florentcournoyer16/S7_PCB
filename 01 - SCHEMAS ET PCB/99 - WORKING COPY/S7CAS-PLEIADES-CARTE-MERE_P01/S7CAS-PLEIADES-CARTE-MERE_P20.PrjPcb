@@ -137,7 +137,7 @@ GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAH
 
 [Document6]
-DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P20_FPGA.SchDoc
+DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P20_FPGA-decoupling.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
