@@ -138,7 +138,6 @@ DocumentUniqueId=YZWMLBAH
 
 [Document6]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P20_FPGA-decoupling.SchDoc
-DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P20_DDR3-decouplage.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -153,6 +152,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAI
+
+[Document7]
+DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P20_DDR3-decouplage.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UNLNKLVV
 
 [Parameter1]
 Name=Project_Date
