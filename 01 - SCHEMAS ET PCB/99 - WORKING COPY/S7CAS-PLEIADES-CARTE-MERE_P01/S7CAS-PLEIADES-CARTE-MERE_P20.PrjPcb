@@ -138,6 +138,7 @@ DocumentUniqueId=YZWMLBAH
 
 [Document6]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P20_FPGA-decoupling.SchDoc
+DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P20_DDR3-decouplage.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
