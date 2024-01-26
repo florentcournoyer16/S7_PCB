@@ -188,23 +188,6 @@ GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAJ
 
 [Document9]
-DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P20_PLL-decouplage.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YZWMLBAK
-
-[Document10]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P20_FPGA-bank-2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -221,7 +204,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAL
 
-[Document11]
+[Document10]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P20_FPGA-bank-0.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
