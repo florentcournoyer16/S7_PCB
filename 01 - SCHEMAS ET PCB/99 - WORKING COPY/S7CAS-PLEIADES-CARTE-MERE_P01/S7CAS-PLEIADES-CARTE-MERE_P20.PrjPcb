@@ -290,7 +290,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document15]
-DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P20_Engine-Control.SchDoc
+DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P20_Motor.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
