@@ -222,7 +222,7 @@ GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAM
 
 [Document11]
-DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P20_Flash.SchDoc
+DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P20_USB.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
