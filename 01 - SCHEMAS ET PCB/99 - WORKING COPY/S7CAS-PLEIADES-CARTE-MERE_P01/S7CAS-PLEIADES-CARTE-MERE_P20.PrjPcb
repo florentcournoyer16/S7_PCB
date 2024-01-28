@@ -205,7 +205,7 @@ GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAL
 
 [Document10]
-DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P20_FPGA-bank-0.SchDoc
+DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P20_FPGA-Bank-0.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -356,6 +356,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAQ
+
+[Document19]
+DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P20_FPGA-Bank-1.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YZWMLBAR
 
 [Parameter1]
 Name=Project_Stencil_Top_Thickness
