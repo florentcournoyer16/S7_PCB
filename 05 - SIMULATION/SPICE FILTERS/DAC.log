@@ -1,21 +1,76 @@
 Circuit: * C:\Users\Flore\OneDrive\Desktop\uni\session7\APP1\S7_PCB\05 - SIMULATION\SPICE FILTERS\DAC.asc
 
-.OP point found by inspection.
+WARNING: Less than two connections to node out.  This node is used by r6.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+vernier = 0.5
+Gmin = 1.86414
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+Gmin = 1.98679
+vernier = 0.015625
+vernier = 0.0078125
+Gmin = 1.95985
+vernier = 0.0104167
+vernier = 0.0138889
+Gmin = 1.90294
+vernier = 0.0185185
+vernier = 0.0246913
+Gmin = 1.81565
+vernier = 0.0329218
+Gmin = 1.68649
+vernier = 0.0438957
+vernier = 0.0585276
+Gmin = 1.49042
+vernier = 0.0780367
+vernier = 0.104049
+Gmin = 1.22473
+vernier = 0.138732
+vernier = 0.0693659
+vernier = 0.034683
+Gmin = 1.02345
+vernier = 0.0173415
+vernier = 0.00867074
+vernier = 0.00433537
+Gmin = 1.00808
+vernier = 0.00216769
+vernier = 0.00108384
+Gmin = 1.00399
+vernier = 0.000541921
+Gmin = 1.0025
+vernier = 0.000722562
+vernier = 0.000541921
+vernier = 0.000406441
+Gmin = 1.00182
+Gmin = 0
+Gmin stepping failed
 
-Date: Sat Jan 27 18:03:00 2024
-Total elapsed time: 0.060 seconds.
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source stepping succeeded in finding the operating point.
+
+
+Date: Sat Jan 27 20:52:30 2024
+Total elapsed time: 0.503 seconds.
 
 tnom = 27
 temp = 27
 method = trap
-totiter = 0
+totiter = 4768
 traniter = 0
 tranpoints = 0
 accept = 0
 rejected = 0
-matrix size = 6
-fillins = 0
+matrix size = 133
+fillins = 224
 solver = Normal
-Avg thread counts: 12.0/0.0/0.0/2.5
-Matrix Compiler1:      13 opcodes
-Matrix Compiler2:      33 opcodes
+Avg thread counts: 1.8/0.0/12.0/1.8
+Matrix Compiler1:     934 opcodes
+Matrix Compiler2: 13.60 KB object code size  1.7/2.2/[0.8]
+
