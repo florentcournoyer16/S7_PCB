@@ -375,52 +375,52 @@ GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAR
 
 [Parameter1]
-Name=Project_Stencil_Top_Thickness
-Value=
+Name=Project_Date
+Value=24-01-12
 
 [Parameter2]
-Name=Project_Stencil_Bot_Thickness
-Value=
-
-[Parameter3]
-Name=Project_Revision
-Value=1.00
-
-[Parameter4]
-Name=Project_Name
-Value=S7CAS-PLEIADES-CARTE-MERE_P20
-
-[Parameter5]
-Name=Project_Group
-Value=P20: couf1001-norc2802
-
-[Parameter6]
-Name=Project_Global
-Value=S7_APP1
-
-[Parameter7]
-Name=Project_Designer4
-Value=
-
-[Parameter8]
-Name=Project_Designer3
-Value=
-
-[Parameter9]
-Name=Project_Designer2
-Value=Charles Normandeau
-
-[Parameter10]
-Name=Project_Designer1
-Value=Florent Cournoyer
-
-[Parameter11]
 Name=Project_DateCode
 Value=
 
+[Parameter3]
+Name=Project_Designer1
+Value=Florent Cournoyer
+
+[Parameter4]
+Name=Project_Designer2
+Value=Charles Normandeau
+
+[Parameter5]
+Name=Project_Designer3
+Value=
+
+[Parameter6]
+Name=Project_Designer4
+Value=
+
+[Parameter7]
+Name=Project_Global
+Value=S7_APP1
+
+[Parameter8]
+Name=Project_Group
+Value=P20: couf1001-norc2802
+
+[Parameter9]
+Name=Project_Name
+Value=S7CAS-PLEIADES-CARTE-MERE_P20
+
+[Parameter10]
+Name=Project_Revision
+Value=1.00
+
+[Parameter11]
+Name=Project_Stencil_Bot_Thickness
+Value=
+
 [Parameter12]
-Name=Project_Date
-Value=24-01-12
+Name=Project_Stencil_Top_Thickness
+Value=
 
 [Configuration1]
 Name=Sources
@@ -1436,118 +1436,16 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=S7CAS_LIB2023.IntLib
-ComponentDesignItemID0=CAP - 0201
-ComponentSymbolReference0=CAP - 0201
+ComponentLibraryIdentifier0=LIB_TEMP_P20_CHARLES_NORMANDEAU_SCH.SchLib
+ComponentDesignItemID0=IND
+ComponentSymbolReference0=IND
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
-ComponentLibIdentifierKind1=Library Name And Type
-ComponentLibraryIdentifier1=S7CAS_LIB2023.IntLib
-ComponentDesignItemID1=CAP - 0402
-ComponentSymbolReference1=CAP - 0402
-ComponentUpdate1=1
-ComponentIsDeviceSheet1=0
-ComponentLibIdentifierKind2=Library Name And Type
-ComponentLibraryIdentifier2=S7CAS_LIB2023.IntLib
-ComponentDesignItemID2=CAP - 0603
-ComponentSymbolReference2=CAP - 0603
-ComponentUpdate2=1
-ComponentIsDeviceSheet2=0
-ComponentLibIdentifierKind3=Library Name And Type
-ComponentLibraryIdentifier3=S7CAS_LIB2023.IntLib
-ComponentDesignItemID3=CAP - 1206
-ComponentSymbolReference3=CAP - 1206
-ComponentUpdate3=1
-ComponentIsDeviceSheet3=0
-ComponentLibIdentifierKind4=Library Name And Type
-ComponentLibraryIdentifier4=S7CAS_LIB2023.IntLib
-ComponentDesignItemID4=COM_ETH_PHY_KSZ8091MNXCA
-ComponentSymbolReference4=COM_ETH_PHY_KSZ8091MNXCA
-ComponentUpdate4=1
-ComponentIsDeviceSheet4=0
-ComponentLibIdentifierKind5=Library Name And Type
-ComponentLibraryIdentifier5=S7CAS_LIB2023.IntLib
-ComponentDesignItemID5=CONN_ETHERNET_RJHSE-5385
-ComponentSymbolReference5=CONN_ETHERNET_RJHSE-5385
-ComponentUpdate5=1
-ComponentIsDeviceSheet5=0
-ComponentLibIdentifierKind6=Library Name And Type
-ComponentLibraryIdentifier6=S7CAS_LIB2023.IntLib
-ComponentDesignItemID6=FPGA_XC6SLX100-3FGG676C
-ComponentSymbolReference6=FPGA_XC6SLX100-3FGG676C
-ComponentUpdate6=1
-ComponentIsDeviceSheet6=0
-ComponentLibIdentifierKind7=Library Name And Type
-ComponentLibraryIdentifier7=S7CAS_LIB2023.IntLib
-ComponentDesignItemID7=MEM_DDR3_MT41J128M16JT-125:K TR
-ComponentSymbolReference7=MEM_DDR3_MT41J128M16JT-125:K TR
-ComponentUpdate7=1
-ComponentIsDeviceSheet7=0
-ComponentLibIdentifierKind8=Library Name And Type
-ComponentLibraryIdentifier8=S7CAS_LIB2023.IntLib
-ComponentDesignItemID8=OSC_590BD-BDG
-ComponentSymbolReference8=OSC_590BD-BDG
-ComponentUpdate8=1
-ComponentIsDeviceSheet8=0
-ComponentLibIdentifierKind9=Library Name And Type
-ComponentLibraryIdentifier9=S7CAS_LIB2023.IntLib
-ComponentDesignItemID9=OSC_ASDMB-25.000MHZ-LC-T
-ComponentSymbolReference9=OSC_ASDMB-25.000MHZ-LC-T
-ComponentUpdate9=1
-ComponentIsDeviceSheet9=0
-ComponentLibIdentifierKind10=Library Name And Type
-ComponentLibraryIdentifier10=S7CAS_LIB2023.IntLib
-ComponentDesignItemID10=REG_PMIC_TPS51200DRCT
-ComponentSymbolReference10=REG_PMIC_TPS51200DRCT
-ComponentUpdate10=1
-ComponentIsDeviceSheet10=0
-ComponentLibIdentifierKind11=Library Name And Type
-ComponentLibraryIdentifier11=S7CAS_LIB2023.IntLib
-ComponentDesignItemID11=RES - 0402
-ComponentSymbolReference11=RES - 0402
-ComponentUpdate11=1
-ComponentIsDeviceSheet11=0
-ComponentLibIdentifierKind12=Library Name And Type
-ComponentLibraryIdentifier12=S7CAS_LIB2023.IntLib
-ComponentDesignItemID12=RES - 0603
-ComponentSymbolReference12=RES - 0603
-ComponentUpdate12=1
-ComponentIsDeviceSheet12=0
-ComponentLibIdentifierKind13=Library Name And Type
-ComponentLibraryIdentifier13=S7CAS_LIB2023.IntLib
-ComponentDesignItemID13=RES - 0805
-ComponentSymbolReference13=RES - 0805
-ComponentUpdate13=1
-ComponentIsDeviceSheet13=0
-ComponentLibIdentifierKind14=Library Name And Type
-ComponentLibraryIdentifier14=S7CAS_LIB2023.IntLib
-ComponentDesignItemID14=TIM_CDCE62005RGZT
-ComponentSymbolReference14=TIM_CDCE62005RGZT
-ComponentUpdate14=1
-ComponentIsDeviceSheet14=0
-ComponentLibIdentifierKind15=Library Name And Type
-ComponentLibraryIdentifier15=S7CAS_LIB2023.IntLib
-ComponentDesignItemID15=TRANSFO_H1102NLT
-ComponentSymbolReference15=TRANSFO_H1102NLT
-ComponentUpdate15=1
-ComponentIsDeviceSheet15=0
-ComponentLibIdentifierKind16=Library Name And Type
-ComponentLibraryIdentifier16=S7CAS_LIB2023.IntLib
-ComponentDesignItemID16=TVS_SR3.3.TCT
-ComponentSymbolReference16=TVS_SR3.3.TCT
-ComponentUpdate16=1
-ComponentIsDeviceSheet16=0
-ComponentLibIdentifierKind17=Library Name And Type
-ComponentLibraryIdentifier17=S7CAS_LIB2023.IntLib
-ComponentDesignItemID17=UND_GST280A24-C6P
-ComponentSymbolReference17=UND_GST280A24-C6P
-ComponentUpdate17=1
-ComponentIsDeviceSheet17=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1569,126 +1467,52 @@ ParameterName2=Comment
 ParameterUpdate2=1
 ParameterName3=Component Kind
 ParameterUpdate3=1
-ParameterName4=CreatedBy
+ParameterName4=CreatedBy/Date
 ParameterUpdate4=1
-ParameterName5=CreatedBy/Date
+ParameterName5=Current
 ParameterUpdate5=1
-ParameterName6=Cryo
+ParameterName6=Current Rating
 ParameterUpdate6=1
-ParameterName7=Current
+ParameterName7=Description
 ParameterUpdate7=1
-ParameterName8=Current Rating
+ParameterName8=GRAMS Lib Spec
 ParameterUpdate8=1
-ParameterName9=Description
+ParameterName9=HelpURL
 ParameterUpdate9=1
-ParameterName10=FootprintNameOK
+ParameterName10=Library Reference
 ParameterUpdate10=1
-ParameterName11=GRAMS Lib Spec
+ParameterName11=Magnetic Material
 ParameterUpdate11=1
-ParameterName12=HelpURL
+ParameterName12=Manufacturer #1
 ParameterUpdate12=1
-ParameterName13=Library Reference
+ParameterName13=Manufacturer #2
 ParameterUpdate13=1
-ParameterName14=Magnetic Material
+ParameterName14=Note
 ParameterUpdate14=1
-ParameterName15=Manufacturer #1
+ParameterName15=Package
 ParameterUpdate15=1
-ParameterName16=Manufacturer #2
+ParameterName16=Part Number #1
 ParameterUpdate16=1
-ParameterName17=Mfg
+ParameterName17=Part Number #2
 ParameterUpdate17=1
-ParameterName18=Mfg Part Number
+ParameterName18=Polarized
 ParameterUpdate18=1
-ParameterName19=NI
+ParameterName19=Power Max
 ParameterUpdate19=1
-ParameterName20=Note
+ParameterName20=Supplier 1
 ParameterUpdate20=1
-ParameterName21=Package
+ParameterName21=Supplier Part Number 1
 ParameterUpdate21=1
-ParameterName22=Part Number #1
+ParameterName22=Temperature
 ParameterUpdate22=1
-ParameterName23=Part Number #2
+ParameterName23=Tolerance
 ParameterUpdate23=1
-ParameterName24=Polarized
+ParameterName24=Value
 ParameterUpdate24=1
-ParameterName25=Power
+ParameterName25=VerifiedBy
 ParameterUpdate25=1
-ParameterName26=Power Max
+ParameterName26=Voltage Rating
 ParameterUpdate26=1
-ParameterName27=Precision
-ParameterUpdate27=1
-ParameterName28=Supplier 1
-ParameterUpdate28=1
-ParameterName29=Supplier Part Number 1
-ParameterUpdate29=1
-ParameterName30=Temperature
-ParameterUpdate30=1
-ParameterName31=Tolerance
-ParameterUpdate31=1
-ParameterName32=Value
-ParameterUpdate32=1
-ParameterName33=VerifiedBy
-ParameterUpdate33=1
-ParameterName34=Voltage
-ParameterUpdate34=1
-ParameterName35=Voltage Rating
-ParameterUpdate35=1
-ModelTypeGroup0=PCBLIB
-ModelTypeUpdate0=1
-ModelType0=PCBLIB
-ModelName0=CAP_0201
-ModelUpdate0=1
-ModelType1=PCBLIB
-ModelName1=CAP_0402
-ModelUpdate1=1
-ModelType2=PCBLIB
-ModelName2=CAP_0603
-ModelUpdate2=1
-ModelType3=PCBLIB
-ModelName3=CAP_1206
-ModelUpdate3=1
-ModelType4=PCBLIB
-ModelName4=COM_ETH_PHY_KSZ8091MNXCA
-ModelUpdate4=1
-ModelType5=PCBLIB
-ModelName5=CONN_ETHERNET_RJHSE-5385
-ModelUpdate5=1
-ModelType6=PCBLIB
-ModelName6=FPGA_XILINX_FGG676
-ModelUpdate6=1
-ModelType7=PCBLIB
-ModelName7=MEM_DDR3_MT41J128M16JT-125
-ModelUpdate7=1
-ModelType8=PCBLIB
-ModelName8=Model Name
-ModelUpdate8=1
-ModelType9=PCBLIB
-ModelName9=OSC_590BD-BDG
-ModelUpdate9=1
-ModelType10=PCBLIB
-ModelName10=OSC_ASDMB-25.000MHZ-LC-T
-ModelUpdate10=1
-ModelType11=PCBLIB
-ModelName11=REG_PMIC_TPS51200DRCT
-ModelUpdate11=1
-ModelType12=PCBLIB
-ModelName12=RES_0402
-ModelUpdate12=1
-ModelType13=PCBLIB
-ModelName13=RES_0603
-ModelUpdate13=1
-ModelType14=PCBLIB
-ModelName14=RES_0805
-ModelUpdate14=1
-ModelType15=PCBLIB
-ModelName15=TIM_CDCE62005RGZT
-ModelUpdate15=1
-ModelType16=PCBLIB
-ModelName16=TRANSFO_H1102NLT
-ModelUpdate16=1
-ModelType17=PCBLIB
-ModelName17=TVS_SR3.3.TCT
-ModelUpdate17=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
