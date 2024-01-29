@@ -358,7 +358,7 @@ GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAQ
 
 [Document19]
-DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P20_FPGA-Bank-1.SchDoc
+DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P20_Sensors-Actuators-FPGA-Bank-1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
