@@ -188,7 +188,7 @@ GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAJ
 
 [Document9]
-DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P20_Flash-FPGA-bank-2.SchDoc
+DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P20_Flash-Sensors-FPGA-bank-2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
