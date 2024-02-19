@@ -1,3 +1,0 @@
-Remove Pin=U17-5 From Net=FLASH_DQ0
-Change Component Designator: OldDesignator=CX18 NewDesignator=CX16
-Change Component Designator: OldDesignator=R148 NewDesignator=R149
