@@ -1,0 +1,25 @@
+BGA Escape Route
+Filename     : C:\Users\RAZER\OneDrive\Bureau\GI2020-2024\S7\APP1\LAB1\S7_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\S7CAS-PLEIADES-CARTE-MERE_P01\S7CAS-PLEIADES-CARTE-MERE-P20_PCBPcbDoc.PcbDoc
+Date         : 2/19/2024
+Time         : 6:39:16 PM
+Time Elapsed : 00:00:00
+
+U13
+    Pad U13-P3(2084.41mil,2440.63mil) on Top Layer on Net DDR3_BA0
+    Pad U13-P4(2123.78mil,2440.63mil) on Top Layer on Net 1V5
+    Pad U13-P6(2202.52mil,2440.63mil) on Top Layer on Net DDR3_ODT
+    Pad U13-W13(2478.11mil,2243.78mil) on Top Layer on Net PHY_RST_N
+    Pad U13-P8(2281.26mil,2440.63mil) on Top Layer on Net DDR3_CAS_N
+    Pad U13-P9(2320.63mil,2440.63mil) on Top Layer on Net 1V5
+    Pad U13-V13(2478.11mil,2283.15mil) on Top Layer on Net PHY_TXD3
+    Pad U13-U13(2478.11mil,2322.52mil) on Top Layer on Net DRV_SLEEP_N
+    Pad U13-T13(2478.11mil,2361.89mil) on Top Layer on Net 1V2_FPGA
+    Pad U13-P11(2399.37mil,2440.63mil) on Top Layer on Net 1V2_FPGA
+    Pad U13-P15(2556.85mil,2440.63mil) on Top Layer on Net 1V2_FPGA
+    Pad U13-M13(2478.11mil,2519.37mil) on Top Layer on Net 1V2_FPGA
+    Pad U13-R13(2478.11mil,2401.26mil) on Top Layer on Net GND
+    Pad U13-P12(2438.74mil,2440.63mil) on Top Layer on Net GND
+    Pad U13-P14(2517.48mil,2440.63mil) on Top Layer on Net GND
+    Pad U13-N13(2478.11mil,2480mil) on Top Layer on Net GND
+    Pad U13-P13(2478.11mil,2440.63mil) on Top Layer on Net 1V2_FPGA
+count : 17
