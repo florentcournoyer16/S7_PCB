@@ -44,8 +44,6 @@ CrossRefPorts=0
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
-XNetsSourceDestinationPrefixes=U, X
-XNetsDiscretesPrefixes=R, L, C, VD
 
 [Preferences]
 PrefsVaultGUID=
@@ -509,6 +507,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GNYTCPOA
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_P20\BGA Escape Route - S7CAS-PLEIADES-CARTE-MERE-P20_PCBPcbDoc.html
+DItemRevisionGUID=
 
 [Parameter1]
 Name=Project_Date
