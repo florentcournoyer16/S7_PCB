@@ -1,66 +1,51 @@
 BGA Escape Route
 Filename     : C:\Users\Flore\OneDrive\Desktop\uni\session7\APP1\S7_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\S7CAS-PLEIADES-CARTE-MERE_P01\S7CAS-PLEIADES-CARTE-MERE-P20_PCBPcbDoc.PcbDoc
-Date         : 2024-02-29
-Time         : 5:15:19 PM
+Date         : 2024-03-01
+Time         : 12:07:30 PM
 Time Elapsed : 00:00:00
 
-U12
-    Differential Pair : Differential Pair DDR3_UDQS Pad : Pad U12-B7(1187.992mil,3964.999mil) on Top Layer on Net DDR3_UDQS_N
-    Pad U12-T1(1376.969mil,4405.945mil) on Top Layer on Net GND
-    Pad U12-T9(1124.999mil,4405.945mil) on Top Layer on Net GND
-    Pad U12-A1(1376.969mil,3933.503mil) on Top Layer on Net 1V5
-    Pad U12-A9(1124.999mil,3933.503mil) on Top Layer on Net GND
-    Pad U12-A8(1156.495mil,3933.503mil) on Top Layer on Net 1V5
-    Pad U12-R1(1376.969mil,4374.449mil) on Top Layer on Net 1V5
-    Pad U12-R9(1124.999mil,4374.449mil) on Top Layer on Net 1V5
-    Pad U12-B1(1376.969mil,3964.999mil) on Top Layer on Net GND
-    Pad U12-B9(1124.999mil,3964.999mil) on Top Layer on Net GND
-    Pad U12-R2(1345.474mil,4374.449mil) on Top Layer on Net DDR3_A7
-    Pad U12-R8(1156.495mil,4374.449mil) on Top Layer on Net DDR3_A6
-    Pad U12-B2(1345.474mil,3964.999mil) on Top Layer on Net 1V5
-    Pad U12-B8(1156.495mil,3964.999mil) on Top Layer on Net DDR3_DQ14
-    Pad U12-P1(1376.969mil,4342.953mil) on Top Layer on Net GND
-    Pad U12-P9(1124.999mil,4342.953mil) on Top Layer on Net GND
-    Pad U12-C1(1376.969mil,3996.495mil) on Top Layer on Net 1V5
-    Pad U12-C9(1124.999mil,3996.495mil) on Top Layer on Net 1V5
-    Pad U12-B7(1187.992mil,3964.999mil) on Top Layer on Net DDR3_UDQS_N
-    Pad U12-R3(1313.976mil,4374.449mil) on Top Layer on Net DDR3_A9
-    Pad U12-B3(1313.976mil,3964.999mil) on Top Layer on Net GND
-    Pad U12-P2(1345.474mil,4342.953mil) on Top Layer on Net DDR3_A5
-    Pad U12-P8(1156.495mil,4342.953mil) on Top Layer on Net DDR3_A4
-    Pad U12-C2(1345.474mil,3996.495mil) on Top Layer on Net DDR3_DQ11
-    Pad U12-C8(1156.495mil,3996.495mil) on Top Layer on Net DDR3_DQ10
-    Pad U12-N1(1376.969mil,4311.458mil) on Top Layer on Net 1V5
-    Pad U12-N9(1124.999mil,4311.458mil) on Top Layer on Net 1V5
-    Pad U12-D1(1376.969mil,4027.992mil) on Top Layer on Net GND
-    Pad U12-D9(1124.999mil,4027.992mil) on Top Layer on Net 1V5
-    Pad U12-N2(1345.474mil,4311.458mil) on Top Layer on Net DDR3_A3
-    Pad U12-N8(1156.495mil,4311.458mil) on Top Layer on Net DDR3_BA1
-    Pad U12-D2(1345.474mil,4027.992mil) on Top Layer on Net 1V5
-    Pad U12-D8(1156.495mil,4027.992mil) on Top Layer on Net GND
-    Pad U12-M1(1376.969mil,4279.962mil) on Top Layer on Net GND
-    Pad U12-M9(1124.999mil,4279.962mil) on Top Layer on Net GND
-    Pad U12-E1(1376.969mil,4059.488mil) on Top Layer on Net GND
-    Pad U12-E9(1124.999mil,4059.488mil) on Top Layer on Net 1V5
-    Pad U12-F1(1376.969mil,4090.983mil) on Top Layer on Net 1V5
-    Pad U12-F9(1124.999mil,4090.983mil) on Top Layer on Net GND
-    Pad U12-M2(1345.474mil,4279.962mil) on Top Layer on Net DDR3_BA0
-    Pad U12-M8(1156.495mil,4279.962mil) on Top Layer on Net 0V75_VTTREF
-    Pad U12-E2(1345.474mil,4059.488mil) on Top Layer on Net GND
-    Pad U12-E8(1156.495mil,4059.488mil) on Top Layer on Net GND
-    Pad U12-G1(1376.969mil,4122.48mil) on Top Layer on Net GND
-    Pad U12-G9(1124.999mil,4122.48mil) on Top Layer on Net GND
-    Pad U12-H9(1124.999mil,4153.975mil) on Top Layer on Net 1V5
-    Pad U12-L2(1345.474mil,4248.466mil) on Top Layer on Net DDR3_CS_N
-    Pad U12-L8(1156.495mil,4248.466mil) on Top Layer on Net NetR39_2
-    Pad U12-F2(1345.474mil,4090.983mil) on Top Layer on Net DDR3_DQ2
-    Pad U12-F8(1156.495mil,4090.983mil) on Top Layer on Net DDR3_DQ3
-    Pad U12-K2(1345.474mil,4216.97mil) on Top Layer on Net 1V5
-    Pad U12-K8(1156.495mil,4216.97mil) on Top Layer on Net 1V5
-    Pad U12-G2(1345.474mil,4122.48mil) on Top Layer on Net DDR3_DQ6
-    Pad U12-G8(1156.495mil,4122.48mil) on Top Layer on Net GND
-    Pad U12-H2(1345.474mil,4153.975mil) on Top Layer on Net 1V5
-    Pad U12-H8(1156.495mil,4153.975mil) on Top Layer on Net DDR3_DQ5
-    Pad U12-J2(1345.474mil,4185.471mil) on Top Layer on Net GND
-    Pad U12-J8(1156.495mil,4185.471mil) on Top Layer on Net GND
-count : 58
+U11
+    Pad U11-A26(84.8mm,122.9mm) on Top Layer on Net GND
+    Pad U11-A1(59.8mm,122.9mm) on Top Layer on Net GND
+    Pad U11-AF26(84.8mm,97.9mm) on Top Layer on Net GND
+    Pad U11-AF1(59.8mm,97.9mm) on Top Layer on Net GND
+    Pad U11-A3(61.8mm,122.9mm) on Top Layer on Net GND
+    Pad U11-B3(61.8mm,121.9mm) on Top Layer on Net 3V3_DIGI
+    Pad U11-AD25(83.8mm,99.9mm) on Top Layer on Net 3V3_DIGI
+    Pad U11-D25(83.8mm,119.9mm) on Top Layer on Net 3V3_DIGI
+    Pad U11-D2(60.8mm,119.9mm) on Top Layer on Net 3V3_DIGI
+    Pad U11-B5(63.8mm,121.9mm) on Top Layer on Net GND
+    Pad U11-AB25(83.8mm,101.9mm) on Top Layer on Net GND
+    Pad U11-AB2(60.8mm,101.9mm) on Top Layer on Net GND
+    Pad U11-AE22(80.8mm,98.9mm) on Top Layer on Net GND
+    Pad U11-B21(79.8mm,121.9mm) on Top Layer on Net GND
+    Pad U11-F25(83.8mm,117.9mm) on Top Layer on Net GND
+    Pad U11-F2(60.8mm,117.9mm) on Top Layer on Net GND
+    Pad U11-AE6(64.8mm,98.9mm) on Top Layer on Net GND
+    Pad U11-B7(65.8mm,121.9mm) on Top Layer on Net 3V3_DIGI
+    Pad U11-Y25(83.8mm,103.9mm) on Top Layer on Net 3V3_DIGI
+    Pad U11-AE20(78.8mm,98.9mm) on Top Layer on Net 3V3_DIGI
+    Pad U11-B19(77.8mm,121.9mm) on Top Layer on Net 3V3_DIGI
+    Pad U11-H25(83.8mm,115.9mm) on Top Layer on Net 3V3_DIGI
+    Pad U11-H2(60.8mm,115.9mm) on Top Layer on Net 3V3_DIGI
+    Pad U11-AE8(66.8mm,98.9mm) on Top Layer on Net 3V3_DIGI
+    Pad U11-B9(67.8mm,121.9mm) on Top Layer on Net GND
+    Pad U11-V25(83.8mm,105.9mm) on Top Layer on Net GND
+    Pad U11-V2(60.8mm,105.9mm) on Top Layer on Net GND
+    Pad U11-AE18(76.8mm,98.9mm) on Top Layer on Net GND
+    Pad U11-B17(75.8mm,121.9mm) on Top Layer on Net GND
+    Pad U11-K25(83.8mm,113.9mm) on Top Layer on Net GND
+    Pad U11-K2(60.8mm,113.9mm) on Top Layer on Net GND
+    Pad U11-AE10(68.8mm,98.9mm) on Top Layer on Net GND
+    Pad U11-B11(69.8mm,121.9mm) on Top Layer on Net 3V3_DIGI
+    Pad U11-T25(83.8mm,107.9mm) on Top Layer on Net 3V3_DIGI
+    Pad U11-AE16(74.8mm,98.9mm) on Top Layer on Net 3V3_DIGI
+    Pad U11-B15(73.8mm,121.9mm) on Top Layer on Net 3V3_DIGI
+    Pad U11-M25(83.8mm,111.9mm) on Top Layer on Net 3V3_DIGI
+    Pad U11-M2(60.8mm,111.9mm) on Top Layer on Net 3V3_DIGI
+    Pad U11-AE12(70.8mm,98.9mm) on Top Layer on Net 3V3_DIGI
+    Pad U11-B13(71.8mm,121.9mm) on Top Layer on Net GND
+    Pad U11-P25(83.8mm,109.9mm) on Top Layer on Net GND
+    Pad U11-P2(60.8mm,109.9mm) on Top Layer on Net GND
+    Pad U11-AE14(72.8mm,98.9mm) on Top Layer on Net GND
+count : 43
