@@ -495,6 +495,10 @@ DocumentUniqueId=GNYTCPOA
 DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_P20\BGA Escape Route - S7CAS-PLEIADES-CARTE-MERE-P20_PCBPcbDoc.html
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_P20\Design Rule Check - S7CAS-PLEIADES-CARTE-MERE-P20_PCBPcbDoc.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=Project_Date
 Value=24-01-12
