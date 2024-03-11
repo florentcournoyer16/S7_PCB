@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: S7CAS-PLEIADES-CARTE-MERE-P20_PCBPcbDoc.PcbDoc   2024-03-11  1:42:48 AM
+NCDrill File Report For: S7CAS-PLEIADES-CARTE-MERE-P20_PCBPcbDoc.PcbDoc   3/11/2024  10:29:52 AM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,7 +7,7 @@ ASCII RoundHoles File : S7CAS-PLEIADES-CARTE-MERE-P20_PCBPcbDoc.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.152mm (6mil)                                            Round             1814      PTH        4993.02mm (196.58inch)
+T1      0.152mm (6mil)                                            Round             1694      PTH        4586.18mm (180.56inch)
 T2      0.2mm (8mil)                                              Round             110       PTH        411.61mm (16.20inch)
 T3      0.254mm (10mil)                                           Round             39        PTH        51.66mm (2.03inch)
 T4      0.3mm (12mil)                                             Round             15        PTH        38.14mm (1.50inch)
@@ -23,6 +23,6 @@ T13     3.251mm (128mil)                                          Round         
 T14     3.3mm (130mil)                                            Round             6         PTH        678.02mm (26.69inch)
 T15     2.997mm (118mil)                                          Round             2         NPTH       8.40mm (0.33inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              2072
+Totals                                                                              1952
 
 Total Processing Time (hh:mm:ss) : 00:00:01

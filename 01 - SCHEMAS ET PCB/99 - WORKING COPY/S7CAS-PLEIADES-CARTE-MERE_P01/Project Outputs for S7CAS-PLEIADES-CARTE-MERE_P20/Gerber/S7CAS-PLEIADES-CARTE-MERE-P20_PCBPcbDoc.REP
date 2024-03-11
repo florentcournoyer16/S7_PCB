@@ -14,16 +14,16 @@ Generating : Bottom Paste
 
 Used DCodes :
     D42
+    D43
+    D44
     D45
-    D49
-    D50
-    D51
-    D52
+    D46
+    D48
     D53
-    D57
-    D59
-    D66
-    D73
+    D58
+    D60
+    D67
+    D74
 *************************************************************
 
 *************************************************************
@@ -122,17 +122,17 @@ Generating : Bottom Solder
 
 Used DCodes :
     D99
+    D100
+    D101
+    D102
     D103
-    D113
-    D114
-    D115
-    D116
-    D117
-    D120
-    D123
+    D105
+    D118
+    D122
     D125
-    D135
-    D142
+    D127
+    D136
+    D143
     D170
     D171
     D172
@@ -263,12 +263,12 @@ Generating : Bottom Overlay
 
 
 Used DCodes :
-    D12
+    D10
     D13
     D14
     D16
     D17
-    D23
+    D22
 *************************************************************
 
 *************************************************************
@@ -311,21 +311,20 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D12
+    D10
     D14
     D16
-    D25
     D42
+    D43
+    D44
     D45
-    D49
-    D50
-    D51
-    D52
+    D46
+    D48
     D53
-    D57
-    D59
-    D73
-    D196
+    D58
+    D60
+    D74
+    D187
     D201
     D214
     D217
@@ -382,7 +381,7 @@ Generating : Int9 (PWR)
 
 
 Used DCodes :
-    D11
+    D12
     D217
     D218
     D219
@@ -518,6 +517,7 @@ Generating : Int4 (Sign)
 
 
 Used DCodes :
+    D18
     D214
     D217
     D218
@@ -630,20 +630,19 @@ Generating : Top Layer
 
 
 Used DCodes :
-    D11
+    D10
     D12
     D14
     D16
-    D22
     D42
+    D43
+    D44
     D45
     D46
-    D49
-    D50
-    D51
-    D52
+    D47
+    D48
     D53
-    D55
+    D54
     D56
     D57
     D58
@@ -651,8 +650,8 @@ Used DCodes :
     D60
     D61
     D62
-    D65
-    D68
+    D63
+    D66
     D69
     D70
     D71
@@ -668,15 +667,15 @@ Used DCodes :
     D81
     D82
     D83
-    D89
+    D84
     D90
     D91
-    D93
-    D97
+    D92
+    D94
     D98
-    D100
-    D131
-    D133
+    D116
+    D117
+    D134
     D187
     D188
     D189

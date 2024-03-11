@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\RAZER\OneDrive\Bureau\GI2020-2024\S7\APP1\LAB1\S7_PCB\01 - SCHEMAS ET PCB\99 - WORKING COPY\S7CAS-PLEIADES-CARTE-MERE_P01\S7CAS-PLEIADES-CARTE-MERE-P20_PCBPcbDoc.PcbDoc
 Date     : 3/11/2024
-Time     : 10:19:22 AM
+Time     : 10:27:30 AM
 
 Processing Rule : Clearance Constraint (Gap=3mil) ((WithinRoom('ROOM_FPGA') OR WithinRoom('ROOM_PHY'))),(All)
 Rule Violations :0
@@ -175,8 +175,6 @@ Processing Rule : Un-Routed Net Constraint ( (All) )
    Violation between Un-Routed Net Constraint: Net NetC192_2 Between Pad U16-38(4116.654mil,5443.89mil) on Top Layer And Pad C192-2(4191.506mil,5442.338mil) on Bottom Layer [Unplated] 
    Violation between Un-Routed Net Constraint: Net NetC194_2 Between Pad R62-2(5522.5mil,2069.999mil) on Top Layer And Pad C195-2(5530.001mil,1892.5mil) on Bottom Layer 
    Violation between Un-Routed Net Constraint: Net GND Between Via (5214.718mil,2181.42mil) from Top Layer to Bottom Layer And Pad C199-1(5225.001mil,2097mil) on Bottom Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C21-1(5474.827mil,4466.379mil) on Top Layer [Unplated] And Pad C20-1(5588.827mil,4466.379mil) on Bottom Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net 3V3_DIGI Between Pad C20-2(5474.827mil,4466.379mil) on Bottom Layer [Unplated] And Pad C21-2(5588.827mil,4466.379mil) on Top Layer [Unplated] 
    Violation between Un-Routed Net Constraint: Net GND Between Pad C214-2(6110mil,837.5mil) on Top Layer And Pad C204-1(6335mil,692.5mil) on Top Layer 
    Violation between Un-Routed Net Constraint: Net GND Between Pad C204-1(6335mil,692.5mil) on Top Layer And Pad U18-4(6420.984mil,725mil) on Top Layer [Unplated] 
    Violation between Un-Routed Net Constraint: Net 3V3_DIGI Between Pad ISO1-16(6201.752mil,905mil) on Top Layer And Pad C204-2(6335mil,657.5mil) on Top Layer 
@@ -391,16 +389,15 @@ Processing Rule : Un-Routed Net Constraint ( (All) )
    Violation between Un-Routed Net Constraint: Net GND Between Pad U8-12(5987.442mil,5504.373mil) on Top Layer And Pad C46-2(6070.628mil,5519.353mil) on Top Layer 
    Violation between Un-Routed Net Constraint: Net GND Between Pad C47-2(3045.581mil,6268.415mil) on Top Layer And Via (3068.003mil,6161.734mil) from Top Layer to Bottom Layer 
    Violation between Un-Routed Net Constraint: Net GND Between Pad C48-1(2653.411mil,5517.265mil) on Top Layer And Via (2692.371mil,5463.307mil) from Top Layer to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C51-1(6145.52mil,5466.074mil) on Bottom Layer [Unplated] And Pad C50-1(6145.52mil,5466.074mil) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C50-1(6145.52mil,5466.074mil) on Top Layer [Unplated] And Pad C51-1(6145.52mil,5466.074mil) on Bottom Layer [Unplated] 
    Violation between Un-Routed Net Constraint: Net GND Between Pad C55-1(3179.705mil,6375.448mil) on Top Layer [Unplated] And Pad C54-1(3179.705mil,6375.448mil) on Bottom Layer [Unplated] 
    Violation between Un-Routed Net Constraint: Net GND Between Pad C56-1(3115.114mil,6450.172mil) on Top Layer And Pad C55-1(3179.705mil,6375.448mil) on Top Layer [Unplated] 
    Violation between Un-Routed Net Constraint: Net GND Between Pad U9-12(3132.963mil,6216.852mil) on Top Layer And Pad C55-1(3179.705mil,6375.448mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad U2-7(5936.355mil,4754.764mil) on Top Layer [Unplated] And Pad C6-2(6215.784mil,4828.883mil) on Top Layer 
    Violation between Un-Routed Net Constraint: Net GND Between Pad C66-1(5757.427mil,5812.795mil) on Bottom Layer [Unplated] And Pad C65-1(5757.428mil,5812.91mil) on Top Layer [Unplated] 
    Violation between Un-Routed Net Constraint: Net GND Between Pad C67-1(5685.918mil,5739.91mil) on Top Layer And Pad C65-1(5757.428mil,5812.91mil) on Top Layer [Unplated] 
    Violation between Un-Routed Net Constraint: Net 3V3_ANAL Between Pad C66-2(5757.427mil,5698.795mil) on Bottom Layer [Unplated] And Pad C65-2(5757.428mil,5698.91mil) on Top Layer [Unplated] 
    Violation between Un-Routed Net Constraint: Net GND Between Pad C67-1(5685.918mil,5739.91mil) on Top Layer And Via (5853.584mil,5569.333mil) from Top Layer to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C73-1(2817.624mil,5994.715mil) on Top Layer [Unplated] And Pad C74-1(2817.624mil,5994.715mil) on Bottom Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C74-1(2817.624mil,5994.715mil) on Bottom Layer [Unplated] And Pad C73-1(2817.624mil,5994.715mil) on Top Layer [Unplated] 
    Violation between Un-Routed Net Constraint: Net GND Between Pad C73-1(2817.624mil,5994.715mil) on Top Layer [Unplated] And Pad C75-1(2882.46mil,5922.93mil) on Top Layer 
    Violation between Un-Routed Net Constraint: Net 1V5 Between Pad C74-2(2931.624mil,5994.715mil) on Bottom Layer [Unplated] And Track (2985.285mil,5994.715mil)(3012.885mil,5967.115mil) on Top Layer 
    Violation between Un-Routed Net Constraint: Net GND Between Pad C75-1(2882.46mil,5922.93mil) on Top Layer And Via (3068.003mil,6082.994mil) from Top Layer to Bottom Layer 
@@ -587,8 +584,6 @@ Processing Rule : Un-Routed Net Constraint ( (All) )
    Violation between Un-Routed Net Constraint: Net NetC298_1 Between Pad R160-2(6830mil,2897.5mil) on Top Layer And Pad U23-9(6894.369mil,2915.157mil) on Top Layer 
    Violation between Un-Routed Net Constraint: Net GND Between Via (7004.605mil,2780.315mil) from Top Layer to Bottom Layer And Pad R161-1(7012.5mil,2730mil) on Top Layer 
    Violation between Un-Routed Net Constraint: Net NetR161_2 Between Pad U23-14(6894.369mil,2787.205mil) on Top Layer And Pad R161-2(6977.5mil,2730mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad R3-1(5771.835mil,4878.581mil) on Bottom Layer And Pad U2-7(5936.355mil,4754.764mil) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net NetR3_2 Between Pad R3-2(5806.835mil,4878.581mil) on Bottom Layer And Pad U2-8(5936.355mil,4879.764mil) on Top Layer [Unplated] 
    Violation between Un-Routed Net Constraint: Net BTN_1 Between Pad R40-1(3499.284mil,429.555mil) on Top Layer And Pad S1-3(3591.044mil,417.428mil) on Top Layer 
    Violation between Un-Routed Net Constraint: Net 3V3_DIGI Between Pad R44-2(3008.284mil,427.555mil) on Top Layer And Pad R40-2(3464.284mil,429.555mil) on Top Layer 
    Violation between Un-Routed Net Constraint: Net GND Between Pad R45-1(3422.284mil,292.555mil) on Top Layer And Pad R43-1(3873.284mil,285.555mil) on Top Layer 
@@ -791,7 +786,7 @@ Processing Rule : Un-Routed Net Constraint ( (All) )
    Violation between Un-Routed Net Constraint: Net 0V75_VTTREF Between Via (3671.26mil,3897.599mil) from Top Layer to Bottom Layer And Via (3671.299mil,4133.86mil) from Top Layer to Bottom Layer 
    Violation between Un-Routed Net Constraint: Via (6835mil,2940mil) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
    Violation between Un-Routed Net Constraint: Via (6835mil,3000mil) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
-Rule Violations :698
+Rule Violations :693
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -904,8 +899,6 @@ Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
    Violation between Silk To Silk Clearance Constraint: (Collision < 0mil) Between Text "C133" (3736.175mil,3981.521mil) on Bottom Overlay And Track (3671.17mil,4089.521mil)(3736.17mil,4089.521mil) on Bottom Overlay Silk Text to Silk Clearance [0mil]
    Violation between Silk To Silk Clearance Constraint: (Collision < 0mil) Between Text "C133" (3736.175mil,3981.521mil) on Bottom Overlay And Track (3736.17mil,4089.521mil)(3736.17mil,4119.521mil) on Bottom Overlay Silk Text to Silk Clearance [0mil]
    Violation between Silk To Silk Clearance Constraint: (Collision < 0mil) Between Text "C160" (3571.175mil,3961.521mil) on Bottom Overlay And Text "C161" (3661.67mil,4087.026mil) on Bottom Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 0mil) Between Text "C20" (5421.368mil,4513.03mil) on Bottom Overlay And Track (5255.636mil,4415.252mil)(5397.368mil,4415.252mil) on Bottom Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 0mil) Between Text "C20" (5421.368mil,4513.03mil) on Bottom Overlay And Track (5398.351mil,4091.434mil)(5398.351mil,4415.252mil) on Bottom Overlay Silk Text to Silk Clearance [0mil]
    Violation between Silk To Silk Clearance Constraint: (Collision < 0mil) Between Text "C72" (3823.535mil,7163.535mil) on Bottom Overlay And Track (3729.059mil,7168.199mil)(3729.059mil,7258.199mil) on Bottom Overlay Silk Text to Silk Clearance [0mil]
    Violation between Silk To Silk Clearance Constraint: (Collision < 0mil) Between Text "C72" (3823.535mil,7163.535mil) on Bottom Overlay And Track (3729.059mil,7168.199mil)(3911.059mil,7168.199mil) on Bottom Overlay Silk Text to Silk Clearance [0mil]
    Violation between Silk To Silk Clearance Constraint: (Collision < 0mil) Between Text "C75" (2871.535mil,5967.535mil) on Top Overlay And Track (2965.624mil,5949.715mil)(2965.624mil,6039.715mil) on Top Overlay Silk Text to Silk Clearance [0mil]
@@ -918,7 +911,7 @@ Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
    Violation between Silk To Silk Clearance Constraint: (Collision < 0mil) Between Text "R47" (3926.175mil,3956.521mil) on Bottom Overlay And Track (3956.17mil,4039.521mil)(4021.17mil,4039.521mil) on Bottom Overlay Silk Text to Silk Clearance [0mil]
    Violation between Silk To Silk Clearance Constraint: (Collision < 0mil) Between Text "R79" (5657mil,1957.506mil) on Top Overlay And Track (5706.85mil,1965.63mil)(5706.85mil,2044.37mil) on Top Overlay Silk Text to Silk Clearance [0mil]
    Violation between Silk To Silk Clearance Constraint: (Collision < 0mil) Between Text "R79" (5657mil,1957.506mil) on Top Overlay And Track (5752.126mil,1961.693mil)(5767.874mil,1961.693mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-Rule Violations :17
+Rule Violations :15
 
 Processing Rule : Net Antennae (Tolerance=0mil) (All)
    Violation between Net Antennae: Track (7142.165mil,5346.139mil)(7162.986mil,5366.96mil) on Top Layer 
@@ -1010,6 +1003,6 @@ Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=1000mil) 
 Rule Violations :1
 
 
-Violations Detected : 883
+Violations Detected : 876
 Waived Violations : 0
-Time Elapsed        : 00:00:04
+Time Elapsed        : 00:00:03
