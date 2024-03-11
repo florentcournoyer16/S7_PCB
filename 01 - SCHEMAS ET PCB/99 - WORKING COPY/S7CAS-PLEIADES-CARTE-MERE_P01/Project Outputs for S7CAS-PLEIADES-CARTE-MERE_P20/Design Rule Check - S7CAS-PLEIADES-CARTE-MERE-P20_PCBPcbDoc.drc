@@ -2033,61 +2033,40 @@ Processing Rule : Net Antennae (Tolerance=0mil) (All)
    Violation between Net Antennae: Via (7660mil,4835mil) from Top Layer to Bottom Layer 
 Rule Violations :505
 
-Processing Rule : Matched Lengths(Delay Tolerance=2ps) (InNetClass('MII_COMM'))
-   Violation between Matched Net Lengths: Between Net PHY_COL And Net PHY_MDIO Delay:813.268ps is not within 2ps tolerance of Delay:836.176ps (20.909ps smaller) 
-   Violation between Matched Net Lengths: Between Net PHY_CRS And Net PHY_MDIO Delay:813.268ps is not within 2ps tolerance of Delay:836.176ps (20.909ps smaller) 
-   Violation between Matched Net Lengths: Between Net PHY_INTRP And Net PHY_MDIO Delay:813.268ps is not within 2ps tolerance of Delay:836.176ps (20.909ps smaller) 
-   Violation between Matched Net Lengths: Between Net PHY_MDC And Net PHY_MDIO Delay:833.971ps is not within 2ps tolerance of Delay:836.176ps (0.205ps smaller) 
-   Violation between Matched Net Lengths: Between Net PHY_MDIO And Net PHY_RXD0 Delay:813.268ps is not within 2ps tolerance of Delay:836.176ps (20.909ps smaller) 
-   Violation between Matched Net Lengths: Between Net PHY_MDIO And Net PHY_RXD1 Delay:813.268ps is not within 2ps tolerance of Delay:836.176ps (20.909ps smaller) 
-   Violation between Matched Net Lengths: Between Net PHY_MDIO And Net PHY_RXD2 Delay:40.448ps is not within 2ps tolerance of Delay:836.176ps (793.728ps smaller) 
-   Violation between Matched Net Lengths: Between Net PHY_MDIO And Net PHY_RXD3 Delay:833.971ps is not within 2ps tolerance of Delay:836.176ps (0.205ps smaller) 
-   Violation between Matched Net Lengths: Between Net PHY_MDIO And Net PHY_RXDC Delay:813.268ps is not within 2ps tolerance of Delay:836.176ps (20.909ps smaller) 
-   Violation between Matched Net Lengths: Between Net PHY_MDIO And Net PHY_RXDV Delay:813.268ps is not within 2ps tolerance of Delay:836.176ps (20.909ps smaller) 
-   Violation between Matched Net Lengths: Between Net PHY_MDIO And Net PHY_RXER Delay:813.268ps is not within 2ps tolerance of Delay:836.176ps (20.909ps smaller) 
-   Violation between Matched Net Lengths: Between Net PHY_MDIO And Net PHY_TXC Delay:813.268ps is not within 2ps tolerance of Delay:836.176ps (20.909ps smaller) 
-   Violation between Matched Net Lengths: Between Net PHY_MDIO And Net PHY_TXD0 Delay:813.268ps is not within 2ps tolerance of Delay:836.176ps (20.909ps smaller) 
-   Violation between Matched Net Lengths: Between Net PHY_MDIO And Net PHY_TXD1 Delay:813.268ps is not within 2ps tolerance of Delay:836.176ps (20.909ps smaller) 
-   Violation between Matched Net Lengths: Between Net PHY_MDIO And Net PHY_TXD2 Delay:813.268ps is not within 2ps tolerance of Delay:836.176ps (20.909ps smaller) 
-   Violation between Matched Net Lengths: Between Net PHY_MDIO And Net PHY_TXD3 Delay:813.268ps is not within 2ps tolerance of Delay:836.176ps (20.909ps smaller) 
-   Violation between Matched Net Lengths: Between Net PHY_MDIO And Net PHY_TXEN Delay:813.268ps is not within 2ps tolerance of Delay:836.176ps (20.909ps smaller) 
-   Violation between Matched Net Lengths: Between Net PHY_MDIO And Net PHY_TXER Delay:814.268ps is not within 2ps tolerance of Delay:836.176ps (19.909ps smaller) 
-Rule Violations :18
-
-Processing Rule : Matched Lengths(Delay Tolerance=2ps) (InDifferentialPair('RD') OR InDifferentialPair('TD'))
-Rule Violations :0
-
-Processing Rule : Matched Lengths(Delay Tolerance=2ps) (InDifferentialPair('RX') OR InDifferentialPair('TX'))
-   Violation between Matched Net Lengths: Between Net RX_N And Net TX_P Delay:287.199ps is not within 2ps tolerance of Delay:297.81ps (8.611ps smaller) 
-   Violation between Matched Net Lengths: Between Net RX_P And Net TX_N Delay:287.612ps is not within 2ps tolerance of Delay:298.81ps (9.198ps smaller) 
-Rule Violations :2
-
 Processing Rule : Matched Lengths(Delay Tolerance=2ps) (InDifferentialPair('DDR3_LDQS') OR InDifferentialPair('DDR3_UDQS') OR InDifferentialPair('DDR3_CK'))
    Violation between Matched Net Lengths: Between Net DDR3_CK_N And Net DDR3_CK_P Actual Difference against DDR3_CK_P is: 2.441ps, Delay Tolerance : 2ps. 
    Violation between Matched Net Lengths: Between Net DDR3_UDQS_N And Net DDR3_UDQS_P Actual Difference against DDR3_UDQS_P is: 10.084ps, Delay Tolerance : 2ps. 
 Rule Violations :2
 
+Processing Rule : Matched Lengths(Delay Tolerance=2ps) (InDifferentialPair('RX') OR InDifferentialPair('TX'))
+   Violation between Matched Net Lengths: Between Net RX_N And Net TX_P Delay:287.199ps is not within 2ps tolerance of Delay:297.828ps (8.629ps smaller) 
+   Violation between Matched Net Lengths: Between Net RX_P And Net TX_N Delay:287.629ps is not within 2ps tolerance of Delay:298.81ps (9.181ps smaller) 
+Rule Violations :2
+
+Processing Rule : Matched Lengths(Delay Tolerance=2ps) (InDifferentialPair('RD') OR InDifferentialPair('TD'))
+Rule Violations :0
+
 Processing Rule : Matched Lengths(Delay Tolerance=2ps) (InNetClass('DDR_ADDR') OR InNetClass('DDR_CLK') OR InNetClass('DDR_CTRL'))
-   Violation between Matched Net Lengths: Between Net DDR3_A0 And Net DDR3_CKE Delay:502.182ps is not within 2ps tolerance of Delay:516.783ps (12.601ps smaller) 
-   Violation between Matched Net Lengths: Between Net DDR3_A1 And Net DDR3_CKE Delay:499.266ps is not within 2ps tolerance of Delay:516.783ps (15.517ps smaller) 
-   Violation between Matched Net Lengths: Between Net DDR3_A2 And Net DDR3_CKE Delay:450.116ps is not within 2ps tolerance of Delay:516.783ps (64.668ps smaller) 
-   Violation between Matched Net Lengths: Between Net DDR3_A3 And Net DDR3_CKE Delay:498.474ps is not within 2ps tolerance of Delay:516.783ps (16.31ps smaller) 
-   Violation between Matched Net Lengths: Between Net DDR3_A4 And Net DDR3_CKE Delay:495.5ps is not within 2ps tolerance of Delay:516.783ps (19.283ps smaller) 
-   Violation between Matched Net Lengths: Between Net DDR3_A5 And Net DDR3_CKE Delay:498.474ps is not within 2ps tolerance of Delay:516.783ps (16.31ps smaller) 
-   Violation between Matched Net Lengths: Between Net DDR3_A6 And Net DDR3_CKE Delay:498.474ps is not within 2ps tolerance of Delay:516.783ps (16.31ps smaller) 
-   Violation between Matched Net Lengths: Between Net DDR3_A7 And Net DDR3_CKE Delay:495.51ps is not within 2ps tolerance of Delay:516.783ps (19.273ps smaller) 
-   Violation between Matched Net Lengths: Between Net DDR3_A8 And Net DDR3_CKE Delay:503.545ps is not within 2ps tolerance of Delay:516.783ps (11.238ps smaller) 
-   Violation between Matched Net Lengths: Between Net DDR3_A9 And Net DDR3_CKE Delay:498.474ps is not within 2ps tolerance of Delay:516.783ps (16.31ps smaller) 
-   Violation between Matched Net Lengths: Between Net DDR3_BA0 And Net DDR3_CKE Delay:498.474ps is not within 2ps tolerance of Delay:516.783ps (16.31ps smaller) 
-   Violation between Matched Net Lengths: Between Net DDR3_BA1 And Net DDR3_CKE Delay:498.477ps is not within 2ps tolerance of Delay:516.783ps (16.306ps smaller) 
-   Violation between Matched Net Lengths: Between Net DDR3_BA2 And Net DDR3_CKE Delay:498.474ps is not within 2ps tolerance of Delay:516.783ps (16.31ps smaller) 
-   Violation between Matched Net Lengths: Between Net DDR3_CAS_N And Net DDR3_CKE Delay:498.474ps is not within 2ps tolerance of Delay:516.783ps (16.31ps smaller) 
-   Violation between Matched Net Lengths: Between Net DDR3_CK_N And Net DDR3_CKE Delay:495.881ps is not within 2ps tolerance of Delay:516.783ps (18.902ps smaller) 
-   Violation between Matched Net Lengths: Between Net DDR3_CK_P And Net DDR3_CKE Delay:498.322ps is not within 2ps tolerance of Delay:516.783ps (16.461ps smaller) 
-   Violation between Matched Net Lengths: Between Net DDR3_CKE And Net DDR3_CS_N Delay:8.324ps is not within 2ps tolerance of Delay:516.783ps (506.459ps smaller) 
-   Violation between Matched Net Lengths: Between Net DDR3_CKE And Net DDR3_ODT Delay:498.474ps is not within 2ps tolerance of Delay:516.783ps (16.31ps smaller) 
-   Violation between Matched Net Lengths: Between Net DDR3_CKE And Net DDR3_RAS_N Delay:498.474ps is not within 2ps tolerance of Delay:516.783ps (16.31ps smaller) 
-   Violation between Matched Net Lengths: Between Net DDR3_CKE And Net DDR3_WE_N Delay:498.474ps is not within 2ps tolerance of Delay:516.783ps (16.31ps smaller) 
+   Violation between Matched Net Lengths: Between Net DDR3_A0 And Net DDR3_CKE Delay:502.182ps is not within 2ps tolerance of Delay:516.247ps (12.064ps smaller) 
+   Violation between Matched Net Lengths: Between Net DDR3_A1 And Net DDR3_CKE Delay:498.474ps is not within 2ps tolerance of Delay:516.247ps (15.773ps smaller) 
+   Violation between Matched Net Lengths: Between Net DDR3_A2 And Net DDR3_CKE Delay:450.116ps is not within 2ps tolerance of Delay:516.247ps (64.131ps smaller) 
+   Violation between Matched Net Lengths: Between Net DDR3_A3 And Net DDR3_CKE Delay:498.474ps is not within 2ps tolerance of Delay:516.247ps (15.773ps smaller) 
+   Violation between Matched Net Lengths: Between Net DDR3_A4 And Net DDR3_CKE Delay:495.5ps is not within 2ps tolerance of Delay:516.247ps (18.746ps smaller) 
+   Violation between Matched Net Lengths: Between Net DDR3_A5 And Net DDR3_CKE Delay:498.474ps is not within 2ps tolerance of Delay:516.247ps (15.773ps smaller) 
+   Violation between Matched Net Lengths: Between Net DDR3_A6 And Net DDR3_CKE Delay:498.474ps is not within 2ps tolerance of Delay:516.247ps (15.773ps smaller) 
+   Violation between Matched Net Lengths: Between Net DDR3_A7 And Net DDR3_CKE Delay:495.51ps is not within 2ps tolerance of Delay:516.247ps (18.736ps smaller) 
+   Violation between Matched Net Lengths: Between Net DDR3_A8 And Net DDR3_CKE Delay:503.545ps is not within 2ps tolerance of Delay:516.247ps (10.702ps smaller) 
+   Violation between Matched Net Lengths: Between Net DDR3_A9 And Net DDR3_CKE Delay:498.474ps is not within 2ps tolerance of Delay:516.247ps (15.773ps smaller) 
+   Violation between Matched Net Lengths: Between Net DDR3_BA0 And Net DDR3_CKE Delay:498.474ps is not within 2ps tolerance of Delay:516.247ps (15.773ps smaller) 
+   Violation between Matched Net Lengths: Between Net DDR3_BA1 And Net DDR3_CKE Delay:498.477ps is not within 2ps tolerance of Delay:516.247ps (15.77ps smaller) 
+   Violation between Matched Net Lengths: Between Net DDR3_BA2 And Net DDR3_CKE Delay:498.474ps is not within 2ps tolerance of Delay:516.247ps (15.773ps smaller) 
+   Violation between Matched Net Lengths: Between Net DDR3_CAS_N And Net DDR3_CKE Delay:498.474ps is not within 2ps tolerance of Delay:516.247ps (15.773ps smaller) 
+   Violation between Matched Net Lengths: Between Net DDR3_CK_N And Net DDR3_CKE Delay:495.881ps is not within 2ps tolerance of Delay:516.247ps (18.366ps smaller) 
+   Violation between Matched Net Lengths: Between Net DDR3_CK_P And Net DDR3_CKE Delay:498.322ps is not within 2ps tolerance of Delay:516.247ps (15.925ps smaller) 
+   Violation between Matched Net Lengths: Between Net DDR3_CKE And Net DDR3_CS_N Delay:8.324ps is not within 2ps tolerance of Delay:516.247ps (505.922ps smaller) 
+   Violation between Matched Net Lengths: Between Net DDR3_CKE And Net DDR3_ODT Delay:498.474ps is not within 2ps tolerance of Delay:516.247ps (15.773ps smaller) 
+   Violation between Matched Net Lengths: Between Net DDR3_CKE And Net DDR3_RAS_N Delay:498.474ps is not within 2ps tolerance of Delay:516.247ps (15.773ps smaller) 
+   Violation between Matched Net Lengths: Between Net DDR3_CKE And Net DDR3_WE_N Delay:498.474ps is not within 2ps tolerance of Delay:516.247ps (15.773ps smaller) 
 Rule Violations :20
 
 Processing Rule : Matched Lengths(Delay Tolerance=2ps) (InNetClass('DDR_DATA'))
