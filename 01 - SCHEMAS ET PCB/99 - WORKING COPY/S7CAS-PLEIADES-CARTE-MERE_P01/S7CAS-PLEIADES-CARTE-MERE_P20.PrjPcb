@@ -424,23 +424,6 @@ GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAN
 
 [Document23]
-DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P20.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document24]
 DocumentPath=..\..\98 - TEMP LIBRARY\LIB_TEMP_P20_FLORENT_COURNOYER_PCB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -457,7 +440,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IUJPVWKE
 
-[Document25]
+[Document24]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P20_Passive-Components.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -474,7 +457,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAV
 
-[Document26]
+[Document25]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE-P20_PCBPcbDoc.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -491,12 +474,61 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GNYTCPOA
 
+[Document26]
+DocumentPath=Job1.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_P20\BGA Escape Route - S7CAS-PLEIADES-CARTE-MERE-P20_PCBPcbDoc.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
 DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-MERE_P20\Design Rule Check - S7CAS-PLEIADES-CARTE-MERE-P20_PCBPcbDoc.html
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=..\..\..\..\..\..\..\..\..\AppData\Local\Temp\QjzFED5.xls
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for Free Documents\NC Drill\S7CAS-PLEIADES-CARTE-MERE-P20_PCBPcbDoc.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for Free Documents\Gerber\S7CAS-PLEIADES-CARTE-MERE-P20_PCBPcbDoc.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for Free Documents\GerberX2\S7CAS-PLEIADES-CARTE-MERE-P20_PCBPcbDoc.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for Free Documents\NC Drill\S7CAS-PLEIADES-CARTE-MERE-P20_PCBPcbDoc.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for Free Documents\Gerber\S7CAS-PLEIADES-CARTE-MERE-P20_PCBPcbDoc.REP
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for Free Documents\GerberX2\S7CAS-PLEIADES-CARTE-MERE-P20_PCBPcbDoc.REP
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for Free Documents\NC Drill\S7CAS-PLEIADES-CARTE-MERE-P20_PCBPcbDoc.TXT
 DItemRevisionGUID=
 
 [Parameter1]
